@@ -14,6 +14,11 @@ This project demonstrates how a Support Vector Machine (SVM) classifier can be u
 - scikit-learn
 - Google Colab
 
+## 📈 Results
+
+- **Test Accuracy:** 77.27%
+- **Model Used:** Support Vector Machine (SVM) with default parameters
+
 ## 🙋‍♂️ Author
 
 - **Abhijeet Deshwal**
