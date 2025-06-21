@@ -5,13 +5,16 @@ This project demonstrates how a Support Vector Machine (SVM) classifier can be u
 - Data loading and preprocessing
 - Training an SVM classifier
 - Evaluating model accuracy
-- Basic visualization of results (if applicable)
-
 
 ## 🛠️ Technologies Used
 
 - Python
-- scikit-learn
-- pandas
 - NumPy
+- pandas
+- scikit-learn
 - Google Colab
+
+## 🙋‍♂️ Author
+
+- **Abhijeet Deshwal**
+- GitHub: [@DeshwalX](https://github.com/DeshwalX)
